@@ -243,6 +243,8 @@ header {
   letter-spacing: 0.06em;
 }
 
+/* features section */
+
 .features__item {
   flex-basis: calc((100% - 120px) / 4);
   margin-left: 30px;
@@ -272,6 +274,8 @@ header {
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
+
+/* work section */
 
 .work {
   padding-bottom: 94px;
@@ -309,6 +313,8 @@ header {
   text-transform: uppercase;
   color: var(--main-bg);
 }
+
+/* team section */
 
 .team {
   background: var(--team-bg);
@@ -374,6 +380,8 @@ header {
   background-color: var(--btn-bg);
 }
 
+/* clients section */
+
 /* .clients__list {
   display: flex;
   flex-wrap: wrap;
@@ -410,6 +418,8 @@ header {
 .clients__link:focus .clients__logo {
   fill: var(--btn-bg);
 }
+
+/* Footer */
 
 .footer {
   padding-bottom: 60px;
@@ -575,6 +585,8 @@ header {
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
     0px 1px 2px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
 }
+
+/* examples section */
 
 .examples {
   display: flex;
